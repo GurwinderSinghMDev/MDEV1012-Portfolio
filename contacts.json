@@ -1,0 +1,26 @@
+[
+    {
+      "FirstName": "Gurwinder",
+      "LastName": "Singh",
+      "EmailAddress": "hcgurwinder99@fmail.com",
+      "ContactNumber": "1234567890"
+    },
+    {
+        "FirstName": "Tony",
+        "LastName": "Stark",
+        "EmailAddress": "ironman@gmail.com",
+        "ContactNumber": "123456"
+      },
+      {
+        "FirstName": "Thor",
+        "LastName": "Odinson",
+        "EmailAddress": "thor@gmail.com",
+        "ContactNumber": "12345678"
+      },
+      {
+        "FirstName": "Steve",
+        "LastName": "Rogers",
+        "EmailAddress": "CA@gmail.com",
+        "ContactNumber": "123456789"
+      }
+  ]
